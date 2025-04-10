@@ -30,7 +30,7 @@
 
 
 ## 🥕 Attention
-**This is the source file of the project webpage for "SPF-Portrait: Towards Pure Portrait Customization with Semantic Pollution-Free Fine-tuning"**
+**This is the source file of the project webpage for "HumanAesExpert: Advancing a Multi-Modality Foundation Model for Human Image Aesthetic Assessment"**
 
 Project Webpage: https://humanaesexpert.github.io/HumanAesExpert/
 
