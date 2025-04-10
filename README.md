@@ -2,7 +2,7 @@
 
   <h1 align="center">HumanAesExpert: Advancing a Multi-Modality Foundation Model for Human Image Aesthetic Assessment</h1>
 <!--   <h2 align="center">ICML 2024</h2> -->
-  <div align="center">  <img src='static/images/teaser.png' style="height:250px"></img>  </div>
+  <div align="center">  <img src='static/images/momohuhuhuluobo.jpg' style="height:250px"></img>  </div>
 
   
   <div align="center">
@@ -30,35 +30,14 @@
 
 
 
-## 📃 Abstract
-Image Aesthetic Assessment (IAA) is a long-standing and challenging research task. However, its subset, Human Image Aesthetic Assessment (HIAA), has been scarcely explored, even though HIAA is widely used in social media, AI workflows, and related domains. To bridge this research gap, our work pioneers a holistic implementation framework tailored for HIAA. Specifically, we introduce <span style="color: red;">_**HumanBeauty**_</span>, the first dataset purpose-built for HIAA, which comprises 108k high-quality human images with manual annotations. To achieve comprehensive and fine-grained HIAA, 50K human images are manually collected through a rigorous curation process and annotated leveraging our trailblazing 12-dimensional aesthetic standard, while the remaining 58K with overall aesthetic labels are systematically filtered from public datasets. Based on the HumanBeauty database, we propose <span style="color: red;">_**HumanAesExpert**_</span> a powerful Vision Language Model for aesthetic evaluation of human images. We innovatively design an Expert head to incorporate human knowledge of aesthetic sub-dimensions while jointly utilizing the Language Modeling (LM) and Regression head. This approach empowers our model to achieve superior proficiency in both overall and fine-grained HIAA. Furthermore, we introduce a MetaVoter, which aggregates scores from all three heads, to effectively balance the capabilities of each head, thereby realizing improved assessment precision. Extensive experiments demonstrate that our HumanAesExpert models deliver significantly better performance in HIAA than other state-of-the-art models. Our datasets, models, and codes are publicly released to advance the HIAA community. 
+## 🥕 Attention
+**This is the source file of the project webpage for "SPF-Portrait: Towards Pure Portrait Customization with Semantic Pollution-Free Fine-tuning"**
 
+Project Webpage: https://humanaesexpert.github.io/HumanAesExpert/
 
-## 📊 HumanBeauty Dataset Construction Pipeline
-<p align="center">
-<img src="static/images/data-pipeline.png" width=100% height=100% 
-class="center">
-</p>
+Arxiv: https://arxiv.org/abs/2503.23907
 
-First, we select six diverse open-source datasets as data sources and perform data filtering to build our HumanBeauty-58k. Additionally, we manually collect and annotate 50k human images across multiple dimensions to create our HumanBeauty-50k. Finally, we map all the scores into text of rating level to form QA pairs for training.
-
-
-## 🧭 HumanAesExpert Overview
-<p align="center">
-<img src="static/images/model-overview.png" width=100% height=100% 
-class="center">
-</p>
-
-Our approach uses both LM and Regression heads, along with an Expert head and MetaVoter.
-
-## 🥕 Visualization Results 
-<p align="center">
-<img src="static/images/cases.png" width=100% height=100% 
-class="center">
-</p>
-
-The Visualization Results of Our Model, where ‘’( )'' indicate the Ground Truth scores. From A to L, they respectively represent facial brightness, facial feature clarity, facial skin tone, facial structure, facial contour clarity, facial aesthetic, outfit, body shape, looks, general appearance aesthetic, environment and overall aesthetic scores.
-
+Github: https://github.com/KwaiVGI/HumanAesExpert
 
     
 ## 🖊 Citation
