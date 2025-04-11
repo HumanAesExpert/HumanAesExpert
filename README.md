@@ -11,7 +11,7 @@
 <div align="center">  <img src='static/images/momohuhuhuluobo.jpg' style="height:250px"></img>  </div>
 
 
-## This is only the project Webpage Source file for "HumanAesExpert: Advancing a Multi-Modality Foundation Model for Human Image Aesthetic Assessment" !!!
+## This is only the Project Webpage Source file for "HumanAesExpert: Advancing a Multi-Modality Foundation Model for Human Image Aesthetic Assessment" !!!
 
 ## If you want to access the HumanAesExpert code, please check the GitHub (code) link below, and if you find HumanAesExpert useful for your research, please give a 🌟 to the GitHub code repo. Thanks!
 
