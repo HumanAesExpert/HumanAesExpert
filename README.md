@@ -28,9 +28,13 @@
 
 ♰ Internship at KwaiVGI, Kuaishou Technology  ✉ Corresponding Author
 
- <h1 align="center">🥕 Attention ！！！</h1>
+</div>
 
- </div>
+<div align="center">
+
+<h1 align="center">🥕 Attention ！！！</h1>
+
+</div>
 
 
 
