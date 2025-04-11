@@ -1,9 +1,9 @@
 <div align="center">
 
- <h1 align="center">🥕 Attention ！！！</h1>
+<h1 align="center">HumanAesExpert: Advancing a Multi-Modality Foundation Model for Human Image Aesthetic Assessment</h1>
 
 <!--   <h2 align="center">ICML 2024</h2> -->
-  <div align="center">  <img src='static/images/momohuhuhuluobo.jpg' style="height:250px"></img>  </div>
+<div align="center">  <img src='static/images/momohuhuhuluobo.jpg' style="height:250px"></img>  </div>
 
   
   <!-- <div align="center"> -->
@@ -19,8 +19,6 @@
 <!--   <a href='https://huggingface.co/spaces/KwaiVGI/VideoGen-RewardBench'><img src='https://img.shields.io/badge/Space-VideoGen--RewardBench-orange.svg?logo=data:image/svg+xml;charset=utf-8;base64,PHN2ZyB0PSIxNzM5MjA0MzY2MDEwIiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjQzNDYiIHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIj48cGF0aCBkPSJNNjgyLjY2NjY2NyA0NjkuMzMzMzMzVjEyOEgzNDEuMzMzMzMzdjI1Nkg4NS4zMzMzMzN2NTEyaDg1My4zMzMzMzRWNDY5LjMzMzMzM2gtMjU2eiBtLTI1Ni0yNTZoMTcwLjY2NjY2NnY1OTcuMzMzMzM0aC0xNzAuNjY2NjY2VjIxMy4zMzMzMzN6IG0tMjU2IDI1NmgxNzAuNjY2NjY2djM0MS4zMzMzMzRIMTcwLjY2NjY2N3YtMzQxLjMzMzMzNHogbTY4Mi42NjY2NjYgMzQxLjMzMzMzNGgtMTcwLjY2NjY2NnYtMjU2aDE3MC42NjY2NjZ2MjU2eiIgcC1pZD0iNDM0NyIgZmlsbD0iIzhhOGE4YSI+PC9wYXRoPjwvc3ZnPg=='></a> &nbsp; -->
 <!--  ### [[`Project Page`](https://humanaesexpert.github.io/HumanAesExpert/)][[`arxiv`](https://arxiv.org/)][[`Paper`](https://arxiv.org/)][[`HumanAesExpert-1B`](https://huggingface.co/HumanBeauty/HumanAesExpert-1B)][[`HumanAesExpert-8B`](https://huggingface.co/HumanBeauty/HumanAesExpert-8B)][[`HumanBeauty`](https://huggingface.co/datasets/HumanBeauty/HumanBeauty-58K)] -->
 
-<h1 align="center">HumanAesExpert: Advancing a Multi-Modality Foundation Model for Human Image Aesthetic Assessment</h1>
-
 
 [**Zhichao Liao**](https://lzc-sg.github.io/)<sup>1</sup> <sup>♰</sup>, [Xiaokun Liu]()<sup>2</sup>, [Wenyu Qin]()<sup>2</sup>, [Qingyu Li]()<sup>2</sup>, 
 [Qiulin Wang]()<sup>2</sup>,  
@@ -29,7 +27,10 @@
 <sup>1</sup> Tsinghua University,    <sup>2</sup> Kuaishou Technology
 
 ♰ Internship at KwaiVGI, Kuaishou Technology  ✉ Corresponding Author
-  </div>
+
+ <h1 align="center">🥕 Attention ！！！</h1>
+
+ </div>
 
 
 
