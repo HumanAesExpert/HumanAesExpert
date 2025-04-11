@@ -29,18 +29,24 @@
 
 
 
-## 🥕 Attention
-**This is the source file of the project webpage for "HumanAesExpert: Advancing a Multi-Modality Foundation Model for Human Image Aesthetic Assessment"**
+## 🥕 Attention ！！！
 
-Project Webpage: https://humanaesexpert.github.io/HumanAesExpert/
+## This is only the project Webpage Source file for "HumanAesExpert: Advancing a Multi-Modality Foundation Model for Human Image Aesthetic Assessment" !!!
 
-Arxiv: https://arxiv.org/abs/2503.23907
+## If you want to access the HumanAesExpert code, please check the GitHub (code) link below, and if you find HumanAesExpert useful for your research, please give a 🌟 to the GitHub code repo. Thanks!
 
-Github: https://github.com/KwaiVGI/HumanAesExpert
+## Github(code): https://github.com/KwaiVGI/HumanAesExpert
 
-    
-## 🖊 Citation
-If you find HumanAesExpert useful for your research, welcome to 🌟 this repo and cite our work using the following BibTeX:
+## Project Webpage: https://humanaesexpert.github.io/HumanAesExpert/
+
+## Arxiv: https://arxiv.org/abs/2503.23907
+
+
+
+
+## 💖 Citation
+
+## If you find HumanAesExpert useful for your research, welcome to cite our work using the following BibTeX:
 
 ```bibtex
 @article{liao2025humanaesexpert,
@@ -50,3 +56,6 @@ If you find HumanAesExpert useful for your research, welcome to 🌟 this repo a
   year={2025}
 }
 ```
+
+
+
